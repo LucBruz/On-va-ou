@@ -1,0 +1,19 @@
+:root {
+  --bleu_clair: #191308;
+  --bleu_foncee: #0a014f;
+
+  --fond: #001f3f;
+  --fond_conteneurs: #2b3e50;
+  --fond_elements_conteneurs: #3b5998;
+  --Texte: #ffffff;
+  --texte_important: #1e90ff;
+}
+
+* {
+  color: var(--Texte);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  background-color: var(--fond);
+}

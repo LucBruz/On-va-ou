@@ -1,0 +1,2642 @@
+[
+    {
+        "name": "Paris",
+        "lat": 48.85341,
+        "long": 2.3488,
+        "temperature_moyenne": 21.1,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 18.3
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 17.2
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 15.9
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 16.0
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 17.4
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 18.7
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 21.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 20.2
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 1,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 24.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 25.2
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 2,
+                        "temperature": 26.4
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 25.1
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 25.4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nice",
+        "lat": 43.70313,
+        "long": 7.26608,
+        "temperature_moyenne": 24.8,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 1,
+                        "temperature": 28.3
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 3,
+                        "temperature": 25.2
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 95,
+                        "temperature": 25.4
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 95,
+                        "temperature": 23.0
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 23.7
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 25.3
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 25.2
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 25.8
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 25.5
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 26.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 24.8
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 51,
+                        "temperature": 22.6
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 51,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 51,
+                        "temperature": 23.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lyon",
+        "lat": 45.74846,
+        "long": 4.84671,
+        "temperature_moyenne": 20.9,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 21.0
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 16.3
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 16.8
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 16.1
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 2,
+                        "temperature": 17.7
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 18.6
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 20.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 45,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 45,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 26.1
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 25.2
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.9
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bordeaux",
+        "lat": 44.84044,
+        "long": -0.5805,
+        "temperature_moyenne": 24.1,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 2,
+                        "temperature": 21.3
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 19.1
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 18.7
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 17.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 21.0
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 23.2
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 24.0
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 26.7
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 1,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 29.7
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 30.1
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 29.8
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 2,
+                        "temperature": 28.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Marseille",
+        "lat": 43.29695,
+        "long": 5.38107,
+        "temperature_moyenne": 23.2,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 0,
+                        "temperature": 25.4
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 3,
+                        "temperature": 24.4
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 20.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 0,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 1,
+                        "temperature": 21.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 0,
+                        "temperature": 22.2
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 25.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 27.0
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 22.5
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 1,
+                        "temperature": 25.2
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 24.7
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 21.9
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 22.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Strasbourg",
+        "lat": 48.58392,
+        "long": 7.74553,
+        "temperature_moyenne": 18.9,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 61,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 14.8
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 81,
+                        "temperature": 15.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 15.4
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 15.1
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 16.4
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 16.6
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 17.3
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 22.4
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 22.4
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 22.5
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 22.5
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 22.3
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 22.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lille",
+        "lat": 50.63297,
+        "long": 3.05858,
+        "temperature_moyenne": 18.6,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 55,
+                        "temperature": 15.1
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 63,
+                        "temperature": 15.2
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 53,
+                        "temperature": 14.7
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 53,
+                        "temperature": 14.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 2,
+                        "temperature": 16.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 51,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 51,
+                        "temperature": 15.1
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 17.2
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 53,
+                        "temperature": 19.1
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 3,
+                        "temperature": 23.2
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 2,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 1,
+                        "temperature": 23.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.2
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 22.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aix-en-Provence",
+        "lat": 43.5283,
+        "long": 5.44973,
+        "temperature_moyenne": 23.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 0,
+                        "temperature": 23.6
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 3,
+                        "temperature": 23.8
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 19.1
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 1,
+                        "temperature": 17.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 0,
+                        "temperature": 22.4
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 0,
+                        "temperature": 23.0
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 25.0
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 25.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 24.0
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 27.1
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 25.6
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 24.0
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.6
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Avignon",
+        "lat": 43.94834,
+        "long": 4.80892,
+        "temperature_moyenne": 24.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 1,
+                        "temperature": 23.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 24.9
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 20.1
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 1,
+                        "temperature": 18.4
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 1,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 20.8
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 21.9
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 23.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 27.1
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 28.5
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 29.9
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 1,
+                        "temperature": 27.1
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 27.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Toulouse",
+        "lat": 43.60426,
+        "long": 1.44367,
+        "temperature_moyenne": 23.1,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 22.1
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 20.6
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 18.0
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 16.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 18.9
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 19.0
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 20.9
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 21.9
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 23.2
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 3,
+                        "temperature": 28.1
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 28.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 28.7
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 28.4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nantes",
+        "lat": 47.21725,
+        "long": -1.55336,
+        "temperature_moyenne": 22.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 55,
+                        "temperature": 18.7
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 18.0
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 2,
+                        "temperature": 17.8
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 17.2
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 19.0
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 20.4
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 20.4
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 1,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 2,
+                        "temperature": 26.7
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 27.4
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 1,
+                        "temperature": 29.0
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 1,
+                        "temperature": 27.8
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 27.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Montpellier",
+        "lat": 43.61093,
+        "long": 3.87635,
+        "temperature_moyenne": 25.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 1,
+                        "temperature": 25.6
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 24.1
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 21.7
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 2,
+                        "temperature": 20.6
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 0,
+                        "temperature": 22.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 1,
+                        "temperature": 26.5
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 26.4
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 1,
+                        "temperature": 24.9
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 26.1
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 28.6
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 27.3
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 27.1
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 0,
+                        "temperature": 27.7
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 27.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cannes",
+        "lat": 43.55135,
+        "long": 7.01275,
+        "temperature_moyenne": 25.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 29.3
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 3,
+                        "temperature": 28.0
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 51,
+                        "temperature": 25.5
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 51,
+                        "temperature": 22.9
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 24.1
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 25.5
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 25.4
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 80,
+                        "temperature": 26.3
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 1,
+                        "temperature": 26.0
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 26.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 25.5
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 23.5
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.3
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 51,
+                        "temperature": 23.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Saint-Tropez",
+        "lat": 43.26764,
+        "long": 6.64049,
+        "temperature_moyenne": 25.9,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 30.0
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 3,
+                        "temperature": 29.3
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 0,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 24.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 0,
+                        "temperature": 27.2
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 25.2
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 2,
+                        "temperature": 26.8
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 0,
+                        "temperature": 25.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 27.6
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 25.8
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 2,
+                        "temperature": 24.6
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.9
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 24.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Biarritz",
+        "lat": 43.48055,
+        "long": -1.55684,
+        "temperature_moyenne": 22.1,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 51,
+                        "temperature": 20.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 63,
+                        "temperature": 21.2
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 53,
+                        "temperature": 18.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 17.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 1,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 45,
+                        "temperature": 19.3
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 45,
+                        "temperature": 20.5
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 45,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 45,
+                        "temperature": 21.5
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 3,
+                        "temperature": 27.2
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.8
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 26.5
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 2,
+                        "temperature": 24.0
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 0,
+                        "temperature": 24.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "La Rochelle",
+        "lat": 46.16308,
+        "long": -1.15222,
+        "temperature_moyenne": 23.5,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 51,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 53,
+                        "temperature": 18.9
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 18.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 1,
+                        "temperature": 18.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 18.2
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 19.9
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 22.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 22.1
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 26.3
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 28.3
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.9
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 28.5
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 1,
+                        "temperature": 29.7
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 29.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rennes",
+        "lat": 48.11198,
+        "long": -1.67429,
+        "temperature_moyenne": 21.3,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 53,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 53,
+                        "temperature": 15.1
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 51,
+                        "temperature": 16.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 16.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 18.8
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 20.4
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 22.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 2,
+                        "temperature": 25.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 25.6
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 1,
+                        "temperature": 27.4
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 26.9
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 26.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dijon",
+        "lat": 47.31667,
+        "long": 5.01667,
+        "temperature_moyenne": 19.1,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 18.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 15.1
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 14.9
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 13.1
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 2,
+                        "temperature": 15.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 18.4
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 19.7
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 21.7
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 21.5
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 22.6
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 23.5
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 22.5
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 22.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Reims",
+        "lat": 49.26526,
+        "long": 4.02853,
+        "temperature_moyenne": 19.8,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 18.2
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 16.6
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 15.2
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 80,
+                        "temperature": 14.0
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 45,
+                        "temperature": 16.1
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 45,
+                        "temperature": 17.5
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 19.9
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 2,
+                        "temperature": 19.4
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 2,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 2,
+                        "temperature": 23.0
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 24.4
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rouen",
+        "lat": 49.44313,
+        "long": 1.09932,
+        "temperature_moyenne": 20.2,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 15.9
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 14.7
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 2,
+                        "temperature": 15.2
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 18.3
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 45,
+                        "temperature": 21.5
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 19.3
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 1,
+                        "temperature": 21.3
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 24.4
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 25.6
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 24.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tours",
+        "lat": 47.39484,
+        "long": 0.70398,
+        "temperature_moyenne": 21.9,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 18.8
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 17.6
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 17.1
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 16.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 17.2
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 19.3
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 21.6
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 20.8
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 1,
+                        "temperature": 26.5
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 25.4
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 28.0
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 26.1
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 26.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nancy",
+        "lat": 48.68439,
+        "long": 6.18496,
+        "temperature_moyenne": 18.9,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 80,
+                        "temperature": 17.8
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 15.1
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 14.6
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 14.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 15.2
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 16.4
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 17.6
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 17.9
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 22.7
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 2,
+                        "temperature": 21.9
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 22.0
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 23.2
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 22.4
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Annecy",
+        "lat": 45.90878,
+        "long": 6.12565,
+        "temperature_moyenne": 18.3,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 80,
+                        "temperature": 19.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 63,
+                        "temperature": 14.8
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 15.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 80,
+                        "temperature": 11.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 14.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 16.5
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 17.1
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 18.2
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 19.8
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 3,
+                        "temperature": 20.9
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 23.3
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 21.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 19.9
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 22.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nimes",
+        "lat": 43.83665,
+        "long": 4.35788,
+        "temperature_moyenne": 25.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 26.3
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 25.0
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 21.3
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 2,
+                        "temperature": 19.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 0,
+                        "temperature": 20.5
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 1,
+                        "temperature": 24.6
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 23.9
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 2,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 26.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 30.0
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.8
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 28.9
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 2,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 27.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Arles",
+        "lat": 43.67681,
+        "long": 4.63031,
+        "temperature_moyenne": 24.7,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 24.1
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 25.0
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 20.8
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 2,
+                        "temperature": 19.3
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 1,
+                        "temperature": 20.3
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 1,
+                        "temperature": 21.9
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 22.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 2,
+                        "temperature": 25.3
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 26.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 28.9
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.1
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 27.3
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 1,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 26.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Grenoble",
+        "lat": 45.17869,
+        "long": 5.71479,
+        "temperature_moyenne": 21.0,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 21.4
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 20.5
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 61,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 80,
+                        "temperature": 14.3
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 2,
+                        "temperature": 18.3
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 18.1
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 19.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 19.8
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 23.3
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 24.5
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 26.5
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 24.2
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 22.6
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Amiens",
+        "lat": 49.9,
+        "long": 2.3,
+        "temperature_moyenne": 19.2,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 53,
+                        "temperature": 15.6
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 55,
+                        "temperature": 15.6
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 51,
+                        "temperature": 14.9
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 51,
+                        "temperature": 14.8
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 2,
+                        "temperature": 17.1
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 51,
+                        "temperature": 17.4
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 51,
+                        "temperature": 16.5
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 16.4
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 51,
+                        "temperature": 18.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 51,
+                        "temperature": 24.4
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 2,
+                        "temperature": 24.7
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 1,
+                        "temperature": 24.9
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 23.7
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Metz",
+        "lat": 49.11911,
+        "long": 6.17269,
+        "temperature_moyenne": 19.4,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 61,
+                        "temperature": 17.6
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 80,
+                        "temperature": 15.7
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 2,
+                        "temperature": 14.8
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 15.5
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 15.8
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 16.6
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 18.9
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 18.6
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 2,
+                        "temperature": 22.6
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 2,
+                        "temperature": 22.7
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 1,
+                        "temperature": 22.7
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 0,
+                        "temperature": 23.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 23.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Carcassonne",
+        "lat": 43.21649,
+        "long": 2.34863,
+        "temperature_moyenne": 24.2,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 3,
+                        "temperature": 22.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 53,
+                        "temperature": 23.1
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 3,
+                        "temperature": 19.2
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 1,
+                        "temperature": 18.7
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 1,
+                        "temperature": 19.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 0,
+                        "temperature": 20.7
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 22.3
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 23.4
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 3,
+                        "temperature": 24.9
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 3,
+                        "temperature": 27.8
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 3,
+                        "temperature": 28.2
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 3,
+                        "temperature": 30.0
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 29.5
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 28.2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Versailles",
+        "lat": 48.80359,
+        "long": 2.13424,
+        "temperature_moyenne": 20.3,
+        "forecast": [
+            {
+                "semaine": 1,
+                "daily": [
+                    {
+                        "date": "2024-09-10",
+                        "weather_code": 80,
+                        "temperature": 16.9
+                    },
+                    {
+                        "date": "2024-09-11",
+                        "weather_code": 61,
+                        "temperature": 16.3
+                    },
+                    {
+                        "date": "2024-09-12",
+                        "weather_code": 80,
+                        "temperature": 14.8
+                    },
+                    {
+                        "date": "2024-09-13",
+                        "weather_code": 3,
+                        "temperature": 15.3
+                    },
+                    {
+                        "date": "2024-09-14",
+                        "weather_code": 3,
+                        "temperature": 16.6
+                    },
+                    {
+                        "date": "2024-09-15",
+                        "weather_code": 3,
+                        "temperature": 17.5
+                    },
+                    {
+                        "date": "2024-09-16",
+                        "weather_code": 3,
+                        "temperature": 20.5
+                    }
+                ]
+            },
+            {
+                "semaine": 2,
+                "daily": [
+                    {
+                        "date": "2024-09-17",
+                        "weather_code": 3,
+                        "temperature": 19.2
+                    },
+                    {
+                        "date": "2024-09-18",
+                        "weather_code": 1,
+                        "temperature": 22.8
+                    },
+                    {
+                        "date": "2024-09-19",
+                        "weather_code": 0,
+                        "temperature": 24.3
+                    },
+                    {
+                        "date": "2024-09-20",
+                        "weather_code": 0,
+                        "temperature": 24.5
+                    },
+                    {
+                        "date": "2024-09-21",
+                        "weather_code": 2,
+                        "temperature": 25.8
+                    },
+                    {
+                        "date": "2024-09-22",
+                        "weather_code": 3,
+                        "temperature": 24.5
+                    },
+                    {
+                        "date": "2024-09-23",
+                        "weather_code": 3,
+                        "temperature": 24.7
+                    }
+                ]
+            }
+        ]
+    }
+]
